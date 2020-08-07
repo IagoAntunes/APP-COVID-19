@@ -1,3 +1,7 @@
+
+![Astron](https://imgur.com/xfTdc8Q.png)
+
+
 # APP COVID-19  :iphone:
 ***
 Desenvolvido durante 1ºPeriodo Curso Ciência da Computação
