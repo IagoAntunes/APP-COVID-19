@@ -1,10 +1,14 @@
 
 ![Astron](https://imgur.com/xfTdc8Q.png)
 
-
 # APP COVID-19  :iphone:
 ***
-Prototipo Desenvolvido durante 1ºPeriodo Curso Ciência da Computação
+### Prototipo Desenvolvido durante 1ºPeriodo Curso Ciência da Computação
+
+
+![](https://imgur.com/mG6DORh.png) 
+
+
 
 ### Funções do App
 
@@ -26,6 +30,7 @@ Prototipo Desenvolvido durante 1ºPeriodo Curso Ciência da Computação
 
 ***
 ![](https://imgur.com/RhfAdNx.gif) 
+
 
 
 
